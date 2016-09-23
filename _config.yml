@@ -22,7 +22,7 @@ email: arturaum@ya.ru
 description: >
   Буду публиковать сюда документы
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arturaum.github.io" # the base hostname & protocol for your site
+url: "https://arturaum.github.io" # the base hostname & protocol for your site
 # twitter_username: arturaum
 # github_username:  arturaum
 
