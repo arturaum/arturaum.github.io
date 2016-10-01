@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Черная дыра"
-permalink: /black-hole/
+permalink: /black-hole-page/
 ---
 
 ## Продукт

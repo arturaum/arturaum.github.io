@@ -29,3 +29,7 @@ url: "https://arturaum.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 theme: minima
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
