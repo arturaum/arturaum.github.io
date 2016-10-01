@@ -17,10 +17,10 @@
 # bundle exec jekyll serve
 
 lang: ru
-title: Arturaum's documents
+title: Arturaum
 email: arturaum@ya.ru
 description: >
-  Буду публиковать сюда документы
+  Мои документы
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arturaum.github.io" # the base hostname & protocol for your site
 # twitter_username: arturaum
